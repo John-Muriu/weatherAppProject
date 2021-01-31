@@ -1,7 +1,5 @@
-# GADS_2020_MWS_Project_solution
 
-Welcome to the Gads 2020 MOBILE WEB SPECIALIST PROJECT SOLUTION.
-This solution covers
+covers the following
     Local Storage
     Service Workers
     Web Manifest
